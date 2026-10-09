@@ -1,0 +1,5209 @@
+[
+  {
+    "id": "3I-FY26-0001",
+    "customer": "Arogya Diag",
+    "location": "Gorakhpur",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "ANAMAYA",
+    "value": 5.5,
+    "siteStatus": "Under Preparation",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "2026-06-15",
+    "expectedClosureLabel": "Before June 2026",
+    "salesStatus": "Technical Discussion",
+    "stage": "II",
+    "probability": 28,
+    "processStage": "technical",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Based on last meeting continue touch with him. Spoke to him on 15th May — will meet soon."
+    ],
+    "activities": [
+      {
+        "date": "2026-04-27",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-05-04",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-05-11",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2026-05-15",
+        "title": "Latest field update",
+        "note": "Based on last meeting continue touch with him. Spoke to him on 15th May — will meet soon."
+      }
+    ],
+    "createdAt": "2026-04-23",
+    "lastUpdated": "2026-05-15",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Free-text closure date"
+    ]
+  },
+  {
+    "id": "3I-FY26-0002",
+    "customer": "Advance Imaging (Dr Rizwan)",
+    "location": "Katihar",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "ANAMAYA",
+    "value": 5.5,
+    "siteStatus": "To Be Identified",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "",
+    "expectedClosureLabel": "Not scheduled",
+    "salesStatus": "Technical Discussion",
+    "stage": "II",
+    "probability": 28,
+    "processStage": "technical",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Visited his Patna residence and discussed the project."
+    ],
+    "activities": [
+      {
+        "date": "2026-04-30",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-05-07",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-05-14",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2026-05-18",
+        "title": "Latest field update",
+        "note": "Visited his Patna residence and discussed the project."
+      }
+    ],
+    "createdAt": "2026-04-25",
+    "lastUpdated": "2026-05-18",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Missing expected closure"
+    ]
+  },
+  {
+    "id": "3I-FY26-0003",
+    "customer": "Padingyal Diagnostic",
+    "location": "Patna",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 5.5,
+    "siteStatus": "Under Preparation",
+    "fundingStatus": "Ready",
+    "expectedClosure": "2026-10-31",
+    "expectedClosureLabel": "October 2026",
+    "salesStatus": "Need Analysis",
+    "stage": "I",
+    "probability": 22,
+    "processStage": "need-analysis",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Continue touch with him."
+    ],
+    "activities": [
+      {
+        "date": "2026-06-01",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-06-08",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-06-12",
+        "title": "Latest field update",
+        "note": "Continue touch with him."
+      }
+    ],
+    "createdAt": "2026-05-19",
+    "lastUpdated": "2026-06-12",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Value recorded as 5.5 against 1.5T MRI — unit ambiguous"
+    ]
+  },
+  {
+    "id": "3I-FY26-0004",
+    "customer": "Virat Ramayan Medical College",
+    "location": "Motihari",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Medical College",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 550,
+    "siteStatus": "Under Preparation",
+    "fundingStatus": "Under Negotiation",
+    "expectedClosure": "2026-11-30",
+    "expectedClosureLabel": "November 2026",
+    "salesStatus": "Commercial Negotiation",
+    "stage": "II",
+    "probability": 70,
+    "processStage": "negotiation",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Met with management. Follow-up ongoing."
+    ],
+    "activities": [
+      {
+        "date": "2026-04-20",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-04-27",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-05-04",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2026-05-11",
+        "title": "Proposal / Quotation",
+        "note": "Quotation submitted to customer."
+      },
+      {
+        "date": "2026-05-18",
+        "title": "Commercial Negotiation",
+        "note": "Commercial negotiation in progress."
+      },
+      {
+        "date": "2026-05-22",
+        "title": "Latest field update",
+        "note": "Met with management. Follow-up ongoing."
+      }
+    ],
+    "createdAt": "2026-04-27",
+    "lastUpdated": "2026-05-22",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": []
+  },
+  {
+    "id": "3I-FY26-0005",
+    "customer": "SN Medical College",
+    "location": "Madhubani",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Medical College",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 550,
+    "siteStatus": "Ready",
+    "fundingStatus": "Ready",
+    "expectedClosure": "2026-12-01",
+    "expectedClosureLabel": "December 2026",
+    "salesStatus": "Technical Discussion",
+    "stage": "II",
+    "probability": 28,
+    "processStage": "technical",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Follow-up. First round meeting completed. Introduced the company."
+    ],
+    "activities": [
+      {
+        "date": "2026-04-22",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-04-29",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-05-06",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2026-05-10",
+        "title": "Latest field update",
+        "note": "Follow-up. First round meeting completed. Introduced the company."
+      }
+    ],
+    "createdAt": "2026-04-14",
+    "lastUpdated": "2026-05-10",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": []
+  },
+  {
+    "id": "3I-FY26-0006",
+    "customer": "Indu Healthcare Diagnostic and Imaging Centre",
+    "location": "Vaishali",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Diagnostic Centre",
+    "modality": "Digital Radiography",
+    "product": "FPD",
+    "value": 8,
+    "siteStatus": "Ready",
+    "fundingStatus": "Under Negotiation",
+    "expectedClosure": "2026-06-25",
+    "expectedClosureLabel": "25 June 2026",
+    "salesStatus": "Finalisation",
+    "stage": "IV",
+    "probability": 82,
+    "processStage": "finalisation",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Waiting for PNDT and loan."
+    ],
+    "activities": [
+      {
+        "date": "2026-05-12",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-05-19",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-05-26",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2026-06-02",
+        "title": "Proposal / Quotation",
+        "note": "Quotation submitted to customer."
+      },
+      {
+        "date": "2026-06-09",
+        "title": "Commercial Negotiation",
+        "note": "Commercial negotiation in progress."
+      },
+      {
+        "date": "2026-06-16",
+        "title": "Finalisation",
+        "note": "Deal moved to finalisation. Awaiting internal / customer confirmation."
+      },
+      {
+        "date": "2026-06-20",
+        "title": "Latest field update",
+        "note": "Waiting for PNDT and loan."
+      }
+    ],
+    "createdAt": "2026-05-24",
+    "lastUpdated": "2026-06-20",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Duplicate-like entries across Mahua / Vaishali"
+    ]
+  },
+  {
+    "id": "3I-FY26-0007",
+    "customer": "Mediequip Enterprise",
+    "location": "Kolkata",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Dealer",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 325,
+    "siteStatus": "Under Preparation",
+    "fundingStatus": "",
+    "expectedClosure": "",
+    "expectedClosureLabel": "Not scheduled",
+    "salesStatus": "Need Analysis",
+    "stage": "I",
+    "probability": 22,
+    "processStage": "need-analysis",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Visited. He has two enquiries — working on both. Meeting him for FPD."
+    ],
+    "activities": [
+      {
+        "date": "2026-04-27",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-05-04",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-05-08",
+        "title": "Latest field update",
+        "note": "Visited. He has two enquiries — working on both. Meeting him for FPD."
+      }
+    ],
+    "createdAt": "2026-04-10",
+    "lastUpdated": "2026-05-08",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Missing funding status"
+    ]
+  },
+  {
+    "id": "3I-FY26-0008",
+    "customer": "Icare",
+    "location": "Kolkata",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 0,
+    "siteStatus": "Ready",
+    "fundingStatus": "",
+    "expectedClosure": "",
+    "expectedClosureLabel": "Not scheduled",
+    "salesStatus": "New Enquiry",
+    "stage": "I",
+    "probability": 15,
+    "processStage": "new-enquiry",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Gave references and discussed market presence. Trying to fix appointment."
+    ],
+    "activities": [
+      {
+        "date": "2026-04-24",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-04-28",
+        "title": "Latest field update",
+        "note": "Gave references and discussed market presence. Trying to fix appointment."
+      }
+    ],
+    "createdAt": "2026-03-30",
+    "lastUpdated": "2026-04-28",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Missing opportunity value",
+      "Product recorded as MRI/DR"
+    ]
+  },
+  {
+    "id": "3I-FY26-0009",
+    "customer": "Sudama Diag",
+    "location": "Purnia",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "ANAMAYA",
+    "value": 5.5,
+    "siteStatus": "Under Preparation",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "2026-12-31",
+    "expectedClosureLabel": "December 2026",
+    "salesStatus": "Quotation Submitted",
+    "stage": "II",
+    "probability": 45,
+    "processStage": "quotation",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Site identified. Going to visit this week. Continue touch with customer."
+    ],
+    "activities": [
+      {
+        "date": "2026-05-08",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-05-15",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-05-22",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2026-05-29",
+        "title": "Proposal / Quotation",
+        "note": "Quotation submitted to customer."
+      },
+      {
+        "date": "2026-06-02",
+        "title": "Latest field update",
+        "note": "Site identified. Going to visit this week. Continue touch with customer."
+      }
+    ],
+    "createdAt": "2026-05-03",
+    "lastUpdated": "2026-06-02",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Duplicate rows in tracker"
+    ]
+  },
+  {
+    "id": "3I-FY26-0010",
+    "customer": "Modern Diag",
+    "location": "Ayodhya",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "ANAMAYA",
+    "value": 0,
+    "siteStatus": "",
+    "fundingStatus": "",
+    "expectedClosure": "",
+    "expectedClosureLabel": "Not scheduled",
+    "salesStatus": "New Enquiry",
+    "stage": "I",
+    "probability": 15,
+    "processStage": "new-enquiry",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [],
+    "activities": [
+      {
+        "date": "2026-04-11",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      }
+    ],
+    "createdAt": "2026-03-15",
+    "lastUpdated": "2026-04-15",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Product name placed in Value column",
+      "Missing value, site, funding, closure"
+    ]
+  },
+  {
+    "id": "3I-FY26-0011",
+    "customer": "Shri Sai Hospital",
+    "location": "Patna",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Multispeciality Hospital",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 0,
+    "siteStatus": "Under Preparation",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "",
+    "expectedClosureLabel": "Not scheduled",
+    "salesStatus": "New Enquiry",
+    "stage": "I",
+    "probability": 15,
+    "processStage": "new-enquiry",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [],
+    "activities": [
+      {
+        "date": "2026-04-14",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      }
+    ],
+    "createdAt": "2026-03-17",
+    "lastUpdated": "2026-04-18",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Product name placed in Value column (Anamaya)"
+    ]
+  },
+  {
+    "id": "3I-FY26-0012",
+    "customer": "Phular Medical College",
+    "location": "Muzaffarpur",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Medical College",
+    "modality": "MRI",
+    "product": "ANAMAYA",
+    "value": 5.5,
+    "siteStatus": "Ready",
+    "fundingStatus": "",
+    "expectedClosure": "2026-09-30",
+    "expectedClosureLabel": "After DP",
+    "salesStatus": "Technical Discussion",
+    "stage": "II",
+    "probability": 28,
+    "processStage": "technical",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Visited on 15th May. He will place order after DP. He is a CT user of United Imaging."
+    ],
+    "activities": [
+      {
+        "date": "2026-04-27",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-05-04",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-05-11",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2026-05-15",
+        "title": "Latest field update",
+        "note": "Visited on 15th May. He will place order after DP. He is a CT user of United Imaging."
+      }
+    ],
+    "createdAt": "2026-04-12",
+    "lastUpdated": "2026-05-15",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Missing funding status"
+    ]
+  },
+  {
+    "id": "3I-FY26-0013",
+    "customer": "Blue Diamond Medical College",
+    "location": "Muzaffarpur",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Medical College",
+    "modality": "Digital Radiography",
+    "product": "FPD",
+    "value": 0,
+    "siteStatus": "",
+    "fundingStatus": "",
+    "expectedClosure": "",
+    "expectedClosureLabel": "Not scheduled",
+    "salesStatus": "New Enquiry",
+    "stage": "I",
+    "probability": 15,
+    "processStage": "new-enquiry",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Interest in FPD / MRI."
+    ],
+    "activities": [
+      {
+        "date": "2026-04-16",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-04-20",
+        "title": "Latest field update",
+        "note": "Interest in FPD / MRI."
+      }
+    ],
+    "createdAt": "2026-03-17",
+    "lastUpdated": "2026-04-20",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Missing value and readiness fields",
+      "Product recorded as FPD/MRI"
+    ]
+  },
+  {
+    "id": "3I-FY26-0014",
+    "customer": "Paramhans Neuro",
+    "location": "Patna",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Neurology Centre",
+    "modality": "MRI",
+    "product": "ANAMAYA",
+    "value": 550,
+    "siteStatus": "",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "2026-11-15",
+    "expectedClosureLabel": "Before November 2026",
+    "salesStatus": "Commercial Negotiation",
+    "stage": "II",
+    "probability": 70,
+    "processStage": "negotiation",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Discussed price and configuration."
+    ],
+    "activities": [
+      {
+        "date": "2026-04-24",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-05-01",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-05-08",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2026-05-15",
+        "title": "Proposal / Quotation",
+        "note": "Quotation submitted to customer."
+      },
+      {
+        "date": "2026-05-22",
+        "title": "Commercial Negotiation",
+        "note": "Commercial negotiation in progress."
+      },
+      {
+        "date": "2026-05-26",
+        "title": "Latest field update",
+        "note": "Discussed price and configuration."
+      }
+    ],
+    "createdAt": "2026-04-21",
+    "lastUpdated": "2026-05-26",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Location recorded as Pana",
+      "ANAMAYA valued at 5.50 Cr vs 5.5 L elsewhere"
+    ]
+  },
+  {
+    "id": "3I-FY26-0015",
+    "customer": "SLC Medical College",
+    "location": "Khagaria",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Medical College",
+    "modality": "MRI",
+    "product": "ANAMAYA",
+    "value": 550,
+    "siteStatus": "Under Preparation",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "2027-06-30",
+    "expectedClosureLabel": "Next Financial Year",
+    "salesStatus": "Need Analysis",
+    "stage": "I",
+    "probability": 22,
+    "processStage": "need-analysis",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "User of GE CT. Site issues discussed. Price and configuration shared."
+    ],
+    "activities": [
+      {
+        "date": "2026-05-01",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-05-08",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-05-12",
+        "title": "Latest field update",
+        "note": "User of GE CT. Site issues discussed. Price and configuration shared."
+      }
+    ],
+    "createdAt": "2026-04-06",
+    "lastUpdated": "2026-05-12",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Duplicate customer rows",
+      "Free-text closure: Next financial year"
+    ]
+  },
+  {
+    "id": "3I-FY26-0016",
+    "customer": "Kalyani Diagnostic Centre",
+    "location": "Dhanbad",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "3T MRI",
+    "value": 0,
+    "siteStatus": "Ready",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "",
+    "expectedClosureLabel": "Not scheduled",
+    "salesStatus": "Quotation Submitted",
+    "stage": "I",
+    "probability": 45,
+    "processStage": "quotation",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Rahul Mishra visited. Awaiting telephonic discussion."
+    ],
+    "activities": [
+      {
+        "date": "2026-04-24",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-05-01",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-05-08",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2026-05-15",
+        "title": "Proposal / Quotation",
+        "note": "Quotation submitted to customer."
+      },
+      {
+        "date": "2026-05-19",
+        "title": "Latest field update",
+        "note": "Rahul Mishra visited. Awaiting telephonic discussion."
+      }
+    ],
+    "createdAt": "2026-04-12",
+    "lastUpdated": "2026-05-19",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Missing value",
+      "Stage I with Quotation Submitted — stage/status mismatch",
+      "Location recorded as Danbad"
+    ]
+  },
+  {
+    "id": "3I-FY26-0017",
+    "customer": "Radiology Solution",
+    "location": "Patna",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "ANAMAYA",
+    "value": 630,
+    "siteStatus": "",
+    "fundingStatus": "",
+    "expectedClosure": "2026-04-30",
+    "expectedClosureLabel": "Lost",
+    "salesStatus": "Lost",
+    "stage": "II",
+    "probability": 0,
+    "processStage": "lost",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Lost to United."
+    ],
+    "activities": [
+      {
+        "date": "2026-04-30",
+        "title": "Latest field update",
+        "note": "Lost to United."
+      },
+      {
+        "date": "2026-04-30",
+        "title": "Marked lost",
+        "note": "Opportunity closed as lost."
+      }
+    ],
+    "createdAt": "2026-03-23",
+    "lastUpdated": "2026-04-30",
+    "outcome": "lost",
+    "lostReason": "Competitor",
+    "competitor": "United Imaging",
+    "dateLost": "2026-04-30",
+    "dataIssues": [
+      "Lost value 6.3 taken from Lost Business sheet — unit unclear"
+    ]
+  },
+  {
+    "id": "3I-FY26-0018",
+    "customer": "BMRC",
+    "location": "Kolkata",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Multispeciality Hospital",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 0,
+    "siteStatus": "",
+    "fundingStatus": "",
+    "expectedClosure": "2027-06-30",
+    "expectedClosureLabel": "Next Financial Year",
+    "salesStatus": "Need Analysis",
+    "stage": "I",
+    "probability": 22,
+    "processStage": "need-analysis",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Will take time. Visited."
+    ],
+    "activities": [
+      {
+        "date": "2026-04-11",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-04-18",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-04-22",
+        "title": "Latest field update",
+        "note": "Will take time. Visited."
+      }
+    ],
+    "createdAt": "2026-03-14",
+    "lastUpdated": "2026-04-22",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Value column recorded as New"
+    ]
+  },
+  {
+    "id": "3I-FY26-0019",
+    "customer": "Avishkar Diag",
+    "location": "Asansol",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 0,
+    "siteStatus": "Ready",
+    "fundingStatus": "",
+    "expectedClosure": "2026-03-01",
+    "expectedClosureLabel": "March 2026",
+    "salesStatus": "Technical Discussion",
+    "stage": "II",
+    "probability": 28,
+    "processStage": "technical",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Visited on 26th November."
+    ],
+    "activities": [
+      {
+        "date": "2025-11-08",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2025-11-15",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2025-11-22",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2025-11-26",
+        "title": "Latest field update",
+        "note": "Visited on 26th November."
+      }
+    ],
+    "createdAt": "2025-10-17",
+    "lastUpdated": "2025-11-26",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Closure date already past",
+      "Missing value"
+    ]
+  },
+  {
+    "id": "3I-FY26-0020",
+    "customer": "Hazaribagh Janchghar",
+    "location": "Hazaribagh",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 0,
+    "siteStatus": "Under Preparation",
+    "fundingStatus": "",
+    "expectedClosure": "2026-12-31",
+    "expectedClosureLabel": "December 2026",
+    "salesStatus": "Technical Discussion",
+    "stage": "I",
+    "probability": 28,
+    "processStage": "technical",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Visited. Discussed price and configuration."
+    ],
+    "activities": [
+      {
+        "date": "2026-04-16",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-04-23",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-04-30",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2026-05-04",
+        "title": "Latest field update",
+        "note": "Visited. Discussed price and configuration."
+      }
+    ],
+    "createdAt": "2026-03-24",
+    "lastUpdated": "2026-05-04",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Early row had customer name only"
+    ]
+  },
+  {
+    "id": "3I-FY26-0021",
+    "customer": "Manorama Ultrasound",
+    "location": "Bhagalpur",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "ANAMAYA",
+    "value": 0,
+    "siteStatus": "Under Preparation",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "",
+    "expectedClosureLabel": "Not scheduled",
+    "salesStatus": "Need Analysis",
+    "stage": "I",
+    "probability": 22,
+    "processStage": "need-analysis",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Discussed price and configuration."
+    ],
+    "activities": [
+      {
+        "date": "2026-04-14",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-04-21",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-04-25",
+        "title": "Latest field update",
+        "note": "Discussed price and configuration."
+      }
+    ],
+    "createdAt": "2026-03-14",
+    "lastUpdated": "2026-04-25",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Product name placed in Value column"
+    ]
+  },
+  {
+    "id": "3I-FY26-0022",
+    "customer": "Divyaman Hospital",
+    "location": "Gorakhpur",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Multispeciality Hospital",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 0,
+    "siteStatus": "",
+    "fundingStatus": "",
+    "expectedClosure": "",
+    "expectedClosureLabel": "Not scheduled",
+    "salesStatus": "New Enquiry",
+    "stage": "I",
+    "probability": 15,
+    "processStage": "new-enquiry",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [],
+    "activities": [
+      {
+        "date": "2026-03-14",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      }
+    ],
+    "createdAt": "2026-02-03",
+    "lastUpdated": "2026-03-18",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Incomplete record"
+    ]
+  },
+  {
+    "id": "3I-FY26-0023",
+    "customer": "Health Point",
+    "location": "Kolkata",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Multispeciality Hospital",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 0,
+    "siteStatus": "",
+    "fundingStatus": "",
+    "expectedClosure": "",
+    "expectedClosureLabel": "Not scheduled",
+    "salesStatus": "New Enquiry",
+    "stage": "I",
+    "probability": 15,
+    "processStage": "new-enquiry",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Visited. Planning upcoming project in Siliguri."
+    ],
+    "activities": [
+      {
+        "date": "2026-04-07",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-04-11",
+        "title": "Latest field update",
+        "note": "Visited. Planning upcoming project in Siliguri."
+      }
+    ],
+    "createdAt": "2026-02-26",
+    "lastUpdated": "2026-04-11",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Incomplete record"
+    ]
+  },
+  {
+    "id": "3I-FY26-0024",
+    "customer": "Medico Biotech",
+    "location": "Kolkata",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Dealer",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 0,
+    "siteStatus": "",
+    "fundingStatus": "",
+    "expectedClosure": "",
+    "expectedClosureLabel": "Not scheduled",
+    "salesStatus": "New Enquiry",
+    "stage": "I",
+    "probability": 15,
+    "processStage": "new-enquiry",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [],
+    "activities": [
+      {
+        "date": "2026-03-16",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      }
+    ],
+    "createdAt": "2026-02-03",
+    "lastUpdated": "2026-03-20",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Name-only dealer record"
+    ]
+  },
+  {
+    "id": "3I-FY26-0025",
+    "customer": "Balaji Diag & CT Scan Centre",
+    "location": "Banda",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 0,
+    "siteStatus": "",
+    "fundingStatus": "",
+    "expectedClosure": "",
+    "expectedClosureLabel": "Not scheduled",
+    "salesStatus": "New Enquiry",
+    "stage": "I",
+    "probability": 15,
+    "processStage": "new-enquiry",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [],
+    "activities": [
+      {
+        "date": "2026-03-18",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      }
+    ],
+    "createdAt": "2026-02-04",
+    "lastUpdated": "2026-03-22",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Incomplete record"
+    ]
+  },
+  {
+    "id": "3I-FY26-0026",
+    "customer": "Rishav Enterprises",
+    "location": "Patna",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Dealer",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 0,
+    "siteStatus": "",
+    "fundingStatus": "",
+    "expectedClosure": "",
+    "expectedClosureLabel": "Not scheduled",
+    "salesStatus": "New Enquiry",
+    "stage": "I",
+    "probability": 15,
+    "processStage": "new-enquiry",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Visited on 13th October."
+    ],
+    "activities": [
+      {
+        "date": "2025-10-09",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2025-10-13",
+        "title": "Latest field update",
+        "note": "Visited on 13th October."
+      }
+    ],
+    "createdAt": "2025-08-27",
+    "lastUpdated": "2025-10-13",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Visit dated without opportunity detail"
+    ]
+  },
+  {
+    "id": "3I-FY26-0027",
+    "customer": "Shri Ramanuj Memorial",
+    "location": "Biharsharif",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Multispeciality Hospital",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 0,
+    "siteStatus": "Under Preparation",
+    "fundingStatus": "",
+    "expectedClosure": "2027-06-30",
+    "expectedClosureLabel": "Next Financial Year",
+    "salesStatus": "Quotation Submitted",
+    "stage": "II",
+    "probability": 45,
+    "processStage": "quotation",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Quotation given through dealer."
+    ],
+    "activities": [
+      {
+        "date": "2026-04-26",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-05-03",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-05-10",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2026-05-17",
+        "title": "Proposal / Quotation",
+        "note": "Quotation submitted to customer."
+      },
+      {
+        "date": "2026-05-21",
+        "title": "Latest field update",
+        "note": "Quotation given through dealer."
+      }
+    ],
+    "createdAt": "2026-04-03",
+    "lastUpdated": "2026-05-21",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Spelling: memmorial"
+    ]
+  },
+  {
+    "id": "3I-FY26-0028",
+    "customer": "Medicare Diagnostic",
+    "location": "Muzaffarpur",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 0,
+    "siteStatus": "Ready",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "2027-06-30",
+    "expectedClosureLabel": "Next Financial Year",
+    "salesStatus": "Quotation Submitted",
+    "stage": "II",
+    "probability": 45,
+    "processStage": "quotation",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [],
+    "activities": [
+      {
+        "date": "2026-04-11",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-04-18",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-04-25",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2026-05-02",
+        "title": "Proposal / Quotation",
+        "note": "Quotation submitted to customer."
+      }
+    ],
+    "createdAt": "2026-03-18",
+    "lastUpdated": "2026-05-06",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Missing value"
+    ]
+  },
+  {
+    "id": "3I-FY26-0029",
+    "customer": "Deb Imaging",
+    "location": "Patna",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 0,
+    "siteStatus": "",
+    "fundingStatus": "",
+    "expectedClosure": "",
+    "expectedClosureLabel": "Not scheduled",
+    "salesStatus": "Need Analysis",
+    "stage": "I",
+    "probability": 22,
+    "processStage": "need-analysis",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Continue touch with him."
+    ],
+    "activities": [
+      {
+        "date": "2026-04-21",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-04-28",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-05-02",
+        "title": "Latest field update",
+        "note": "Continue touch with him."
+      }
+    ],
+    "createdAt": "2026-03-13",
+    "lastUpdated": "2026-05-02",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Incomplete record"
+    ]
+  },
+  {
+    "id": "3I-FY26-0030",
+    "customer": "Star Imaging",
+    "location": "Patna",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 0,
+    "siteStatus": "Under Preparation",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "2026-06-30",
+    "expectedClosureLabel": "First quarter of 2026",
+    "salesStatus": "Need Analysis",
+    "stage": "I",
+    "probability": 22,
+    "processStage": "need-analysis",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Plan for new diagnostic centre in Saguna More, Patna."
+    ],
+    "activities": [
+      {
+        "date": "2026-03-28",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-04-04",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-04-08",
+        "title": "Latest field update",
+        "note": "Plan for new diagnostic centre in Saguna More, Patna."
+      }
+    ],
+    "createdAt": "2026-02-16",
+    "lastUpdated": "2026-04-08",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Free-text closure already elapsed"
+    ]
+  },
+  {
+    "id": "3I-FY26-0031",
+    "customer": "Avishkar Diagnostic",
+    "location": "Dhanbad",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "3T MRI",
+    "value": 0,
+    "siteStatus": "Ready",
+    "fundingStatus": "",
+    "expectedClosure": "",
+    "expectedClosureLabel": "Not scheduled",
+    "salesStatus": "New Enquiry",
+    "stage": "I",
+    "probability": 15,
+    "processStage": "new-enquiry",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Looking for new system."
+    ],
+    "activities": [
+      {
+        "date": "2026-04-12",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-04-16",
+        "title": "Latest field update",
+        "note": "Looking for new system."
+      }
+    ],
+    "createdAt": "2026-02-23",
+    "lastUpdated": "2026-04-16",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Missing value"
+    ]
+  },
+  {
+    "id": "3I-FY26-0032",
+    "customer": "Balaji Diag & CT Scan Centre",
+    "location": "Hajipur",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "ANAMAYA",
+    "value": 0,
+    "siteStatus": "Ready",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "2026-03-15",
+    "expectedClosureLabel": "Before March 2026",
+    "salesStatus": "Need Analysis",
+    "stage": "I",
+    "probability": 22,
+    "processStage": "need-analysis",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [],
+    "activities": [
+      {
+        "date": "2026-02-09",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-02-16",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      }
+    ],
+    "createdAt": "2025-12-29",
+    "lastUpdated": "2026-02-20",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Closure already past",
+      "Product in value column"
+    ]
+  },
+  {
+    "id": "3I-FY26-0033",
+    "customer": "Mohta Hospital Joda",
+    "location": "Keonjhar",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Multispeciality Hospital",
+    "modality": "MRI",
+    "product": "ANAMAYA",
+    "value": 0,
+    "siteStatus": "Under Preparation",
+    "fundingStatus": "Under Negotiation",
+    "expectedClosure": "2026-10-31",
+    "expectedClosureLabel": "After October 2026",
+    "salesStatus": "Quotation Submitted",
+    "stage": "II",
+    "probability": 45,
+    "processStage": "quotation",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Visited, gave final price. Negotiation ongoing."
+    ],
+    "activities": [
+      {
+        "date": "2026-05-03",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-05-10",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-05-17",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2026-05-24",
+        "title": "Proposal / Quotation",
+        "note": "Quotation submitted to customer."
+      },
+      {
+        "date": "2026-05-28",
+        "title": "Latest field update",
+        "note": "Visited, gave final price. Negotiation ongoing."
+      }
+    ],
+    "createdAt": "2026-04-04",
+    "lastUpdated": "2026-05-28",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Missing value"
+    ]
+  },
+  {
+    "id": "3I-FY26-0034",
+    "customer": "Sita Devi Hospital",
+    "location": "Hazaribagh",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 285,
+    "siteStatus": "Under Preparation",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "2026-11-30",
+    "expectedClosureLabel": "November 2026",
+    "salesStatus": "Quotation Submitted",
+    "stage": "II",
+    "probability": 45,
+    "processStage": "quotation",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [],
+    "activities": [
+      {
+        "date": "2026-04-14",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-04-21",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-04-28",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2026-05-05",
+        "title": "Proposal / Quotation",
+        "note": "Quotation submitted to customer."
+      }
+    ],
+    "createdAt": "2026-03-15",
+    "lastUpdated": "2026-05-09",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Value 2.85 interpreted as ₹2.85 Cr"
+    ]
+  },
+  {
+    "id": "3I-FY26-0035",
+    "customer": "Dr Rama Ji Choudhary",
+    "location": "Siwan",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Multispeciality Hospital",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 325,
+    "siteStatus": "Ready",
+    "fundingStatus": "Under Negotiation",
+    "expectedClosure": "2026-12-31",
+    "expectedClosureLabel": "December 2026",
+    "salesStatus": "Commercial Negotiation",
+    "stage": "III",
+    "probability": 70,
+    "processStage": "negotiation",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Site renovation required. User of PMRI, wants upgrade with buy-back."
+    ],
+    "activities": [
+      {
+        "date": "2026-05-04",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-05-11",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-05-18",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2026-05-25",
+        "title": "Proposal / Quotation",
+        "note": "Quotation submitted to customer."
+      },
+      {
+        "date": "2026-06-01",
+        "title": "Commercial Negotiation",
+        "note": "Commercial negotiation in progress."
+      },
+      {
+        "date": "2026-06-05",
+        "title": "Latest field update",
+        "note": "Site renovation required. User of PMRI, wants upgrade with buy-back."
+      }
+    ],
+    "createdAt": "2026-04-10",
+    "lastUpdated": "2026-06-05",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": []
+  },
+  {
+    "id": "3I-FY26-0036",
+    "customer": "Dr B C Roy",
+    "location": "Purnia",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Multispeciality Hospital",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 285,
+    "siteStatus": "Ready",
+    "fundingStatus": "Under Negotiation",
+    "expectedClosure": "2026-11-30",
+    "expectedClosureLabel": "November 2026",
+    "salesStatus": "Commercial Negotiation",
+    "stage": "II",
+    "probability": 70,
+    "processStage": "negotiation",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Waiting for JCRL installation."
+    ],
+    "activities": [
+      {
+        "date": "2026-05-07",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-05-14",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-05-21",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2026-05-28",
+        "title": "Proposal / Quotation",
+        "note": "Quotation submitted to customer."
+      },
+      {
+        "date": "2026-06-04",
+        "title": "Commercial Negotiation",
+        "note": "Commercial negotiation in progress."
+      },
+      {
+        "date": "2026-06-08",
+        "title": "Latest field update",
+        "note": "Waiting for JCRL installation."
+      }
+    ],
+    "createdAt": "2026-04-12",
+    "lastUpdated": "2026-06-08",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Stage II with Negotiation status"
+    ]
+  },
+  {
+    "id": "3I-FY26-0037",
+    "customer": "Advance Neuro Centre",
+    "location": "Patna",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Multispeciality Hospital",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 0,
+    "siteStatus": "Under Preparation",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "2027-06-30",
+    "expectedClosureLabel": "Next Financial Year",
+    "salesStatus": "Quotation Submitted",
+    "stage": "I",
+    "probability": 45,
+    "processStage": "quotation",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [],
+    "activities": [
+      {
+        "date": "2026-04-19",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-04-26",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-05-03",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2026-05-10",
+        "title": "Proposal / Quotation",
+        "note": "Quotation submitted to customer."
+      }
+    ],
+    "createdAt": "2026-03-17",
+    "lastUpdated": "2026-05-14",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Stage I with Quotation Submitted"
+    ]
+  },
+  {
+    "id": "3I-FY26-0038",
+    "customer": "Satyam Hospital",
+    "location": "Saharsa",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Multispeciality Hospital",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 0,
+    "siteStatus": "Ready",
+    "fundingStatus": "Under Negotiation",
+    "expectedClosure": "2027-06-30",
+    "expectedClosureLabel": "Next Financial Year",
+    "salesStatus": "Quotation Submitted",
+    "stage": "II",
+    "probability": 45,
+    "processStage": "quotation",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Going to visit. Discussed configuration."
+    ],
+    "activities": [
+      {
+        "date": "2026-04-21",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-04-28",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-05-05",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2026-05-12",
+        "title": "Proposal / Quotation",
+        "note": "Quotation submitted to customer."
+      },
+      {
+        "date": "2026-05-16",
+        "title": "Latest field update",
+        "note": "Going to visit. Discussed configuration."
+      }
+    ],
+    "createdAt": "2026-03-18",
+    "lastUpdated": "2026-05-16",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Missing product in original row"
+    ]
+  },
+  {
+    "id": "3I-FY26-0039",
+    "customer": "Parmhansh Neuro",
+    "location": "Sitamarhi",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Neurology Centre",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 0,
+    "siteStatus": "Under Preparation",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "2027-06-30",
+    "expectedClosureLabel": "Next Financial Year",
+    "salesStatus": "Need Analysis",
+    "stage": "I",
+    "probability": 22,
+    "processStage": "need-analysis",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Discussed configuration and price."
+    ],
+    "activities": [
+      {
+        "date": "2026-04-30",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-05-07",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-05-11",
+        "title": "Latest field update",
+        "note": "Discussed configuration and price."
+      }
+    ],
+    "createdAt": "2026-03-12",
+    "lastUpdated": "2026-05-11",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": []
+  },
+  {
+    "id": "3I-FY26-0040",
+    "customer": "Nishan Diagnostic",
+    "location": "Madhepura",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 0,
+    "siteStatus": "Ready",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "2027-06-30",
+    "expectedClosureLabel": "Next Financial Year",
+    "salesStatus": "Need Analysis",
+    "stage": "I",
+    "probability": 22,
+    "processStage": "need-analysis",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Discussed configuration and price."
+    ],
+    "activities": [
+      {
+        "date": "2026-04-30",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-05-07",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-05-11",
+        "title": "Latest field update",
+        "note": "Discussed configuration and price."
+      }
+    ],
+    "createdAt": "2026-03-11",
+    "lastUpdated": "2026-05-11",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": []
+  },
+  {
+    "id": "3I-FY26-0041",
+    "customer": "Debam Diagnostic",
+    "location": "Gaya",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 0,
+    "siteStatus": "Under Preparation",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "2027-06-30",
+    "expectedClosureLabel": "Next Financial Year",
+    "salesStatus": "Need Analysis",
+    "stage": "I",
+    "probability": 22,
+    "processStage": "need-analysis",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Discussed configuration and price."
+    ],
+    "activities": [
+      {
+        "date": "2026-04-26",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-05-03",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-05-07",
+        "title": "Latest field update",
+        "note": "Discussed configuration and price."
+      }
+    ],
+    "createdAt": "2026-04-15",
+    "lastUpdated": "2026-05-07",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": []
+  },
+  {
+    "id": "3I-FY26-0042",
+    "customer": "Rajendra Diag",
+    "location": "Sitamarhi",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 0,
+    "siteStatus": "Ready",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "2027-06-30",
+    "expectedClosureLabel": "Next Financial Year",
+    "salesStatus": "Need Analysis",
+    "stage": "I",
+    "probability": 22,
+    "processStage": "need-analysis",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Discussed configuration and price. User of Siemens CT."
+    ],
+    "activities": [
+      {
+        "date": "2026-04-26",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-05-03",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-05-07",
+        "title": "Latest field update",
+        "note": "Discussed configuration and price. User of Siemens CT."
+      }
+    ],
+    "createdAt": "2026-04-14",
+    "lastUpdated": "2026-05-07",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": []
+  },
+  {
+    "id": "3I-FY26-0043",
+    "customer": "Bala Jee Hospital",
+    "location": "Balasore",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Multispeciality Hospital",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 0,
+    "siteStatus": "Under Preparation",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "2027-06-30",
+    "expectedClosureLabel": "Next Financial Year",
+    "salesStatus": "Need Analysis",
+    "stage": "I",
+    "probability": 22,
+    "processStage": "need-analysis",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Discussed price, configuration and site requirements including electricity."
+    ],
+    "activities": [
+      {
+        "date": "2026-05-02",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-05-09",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-05-13",
+        "title": "Latest field update",
+        "note": "Discussed price, configuration and site requirements including electricity."
+      }
+    ],
+    "createdAt": "2026-04-19",
+    "lastUpdated": "2026-05-13",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": []
+  },
+  {
+    "id": "3I-FY26-0044",
+    "customer": "Narayana Hospital",
+    "location": "Howrah",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Multispeciality Hospital",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 0,
+    "siteStatus": "Ready",
+    "fundingStatus": "Under Negotiation",
+    "expectedClosure": "2027-06-30",
+    "expectedClosureLabel": "Next Financial Year",
+    "salesStatus": "Need Analysis",
+    "stage": "I",
+    "probability": 22,
+    "processStage": "need-analysis",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Visited Medicall Chennai. Showing interest in our products."
+    ],
+    "activities": [
+      {
+        "date": "2026-05-13",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-05-20",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-05-24",
+        "title": "Latest field update",
+        "note": "Visited Medicall Chennai. Showing interest in our products."
+      }
+    ],
+    "createdAt": "2026-04-29",
+    "lastUpdated": "2026-05-24",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": []
+  },
+  {
+    "id": "3I-FY26-0045",
+    "customer": "Prasad Diag",
+    "location": "Motihari",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 0,
+    "siteStatus": "Ready",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "",
+    "expectedClosureLabel": "Depends on negotiation",
+    "salesStatus": "Need Analysis",
+    "stage": "I",
+    "probability": 22,
+    "processStage": "need-analysis",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Shared available product configuration and catalogue."
+    ],
+    "activities": [
+      {
+        "date": "2026-05-06",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-05-13",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-05-17",
+        "title": "Latest field update",
+        "note": "Shared available product configuration and catalogue."
+      }
+    ],
+    "createdAt": "2026-04-21",
+    "lastUpdated": "2026-05-17",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Free-text closure: depends on negotiation"
+    ]
+  },
+  {
+    "id": "3I-FY26-0046",
+    "customer": "Advance Diagnostic and Imaging Centre",
+    "location": "Katihar",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 0,
+    "siteStatus": "Under Preparation",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "2027-06-30",
+    "expectedClosureLabel": "Next Financial Year",
+    "salesStatus": "Need Analysis",
+    "stage": "I",
+    "probability": 22,
+    "processStage": "need-analysis",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Discussed price and payment terms."
+    ],
+    "activities": [
+      {
+        "date": "2026-05-07",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-05-14",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-05-18",
+        "title": "Latest field update",
+        "note": "Discussed price and payment terms."
+      }
+    ],
+    "createdAt": "2026-04-21",
+    "lastUpdated": "2026-05-18",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": []
+  },
+  {
+    "id": "3I-FY26-0047",
+    "customer": "Dr Arunava Kumar",
+    "location": "Patna",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Hospital",
+    "modality": "Nuclear Medicine",
+    "product": "Gamma Camera",
+    "value": 0,
+    "siteStatus": "To Be Identified",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "2026-05-30",
+    "expectedClosureLabel": "Lost",
+    "salesStatus": "Lost",
+    "stage": "I",
+    "probability": 0,
+    "processStage": "lost",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Lost to Mediser — Phi 3T."
+    ],
+    "activities": [
+      {
+        "date": "2026-05-30",
+        "title": "Latest field update",
+        "note": "Lost to Mediser — Phi 3T."
+      },
+      {
+        "date": "2026-05-30",
+        "title": "Marked lost",
+        "note": "Opportunity closed as lost."
+      }
+    ],
+    "createdAt": "2026-05-02",
+    "lastUpdated": "2026-05-30",
+    "outcome": "lost",
+    "lostReason": "Competitor",
+    "competitor": "Mediser",
+    "dateLost": "2026-05-30",
+    "dataIssues": [
+      "Customer type recorded as Medanta",
+      "Missing value"
+    ]
+  },
+  {
+    "id": "3I-FY26-0048",
+    "customer": "Maa Vindhyavashi MRI Centre",
+    "location": "Motihari",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 0,
+    "siteStatus": "Ready",
+    "fundingStatus": "",
+    "expectedClosure": "",
+    "expectedClosureLabel": "Not scheduled",
+    "salesStatus": "Technical Discussion",
+    "stage": "I",
+    "probability": 28,
+    "processStage": "technical",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Discussed configuration."
+    ],
+    "activities": [
+      {
+        "date": "2026-04-20",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-04-27",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-05-04",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2026-05-08",
+        "title": "Latest field update",
+        "note": "Discussed configuration."
+      }
+    ],
+    "createdAt": "2026-04-09",
+    "lastUpdated": "2026-05-08",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": []
+  },
+  {
+    "id": "3I-FY26-0049",
+    "customer": "Maa Kamakhya Neuro",
+    "location": "Begusarai",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Neurology Centre",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 0,
+    "siteStatus": "Ready",
+    "fundingStatus": "",
+    "expectedClosure": "",
+    "expectedClosureLabel": "Not scheduled",
+    "salesStatus": "Need Analysis",
+    "stage": "I",
+    "probability": 22,
+    "processStage": "need-analysis",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [],
+    "activities": [
+      {
+        "date": "2026-04-18",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-04-25",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      }
+    ],
+    "createdAt": "2026-03-30",
+    "lastUpdated": "2026-04-29",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": []
+  },
+  {
+    "id": "3I-FY26-0050",
+    "customer": "Mamata Medical College",
+    "location": "Siwan",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Medical College",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 0,
+    "siteStatus": "Ready",
+    "fundingStatus": "",
+    "expectedClosure": "",
+    "expectedClosureLabel": "Not scheduled",
+    "salesStatus": "New Enquiry",
+    "stage": "I",
+    "probability": 15,
+    "processStage": "new-enquiry",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [],
+    "activities": [
+      {
+        "date": "2026-04-17",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      }
+    ],
+    "createdAt": "2026-03-21",
+    "lastUpdated": "2026-04-21",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": []
+  },
+  {
+    "id": "3I-FY26-0051",
+    "customer": "Aryan Surgical",
+    "location": "Gaya",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Dealer",
+    "modality": "Digital Radiography",
+    "product": "FPD",
+    "value": 0,
+    "siteStatus": "",
+    "fundingStatus": "",
+    "expectedClosure": "",
+    "expectedClosureLabel": "Not scheduled",
+    "salesStatus": "Need Analysis",
+    "stage": "I",
+    "probability": 22,
+    "processStage": "need-analysis",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Has two enquiries. Will arrange meetings with end customers."
+    ],
+    "activities": [
+      {
+        "date": "2026-05-12",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-05-19",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-05-23",
+        "title": "Latest field update",
+        "note": "Has two enquiries. Will arrange meetings with end customers."
+      }
+    ],
+    "createdAt": "2026-04-21",
+    "lastUpdated": "2026-05-23",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Earlier row was name-only"
+    ]
+  },
+  {
+    "id": "3I-FY26-0052",
+    "customer": "Anupam Diag",
+    "location": "Muzaffarpur",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 0,
+    "siteStatus": "Ready",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "",
+    "expectedClosureLabel": "Not scheduled",
+    "salesStatus": "Need Analysis",
+    "stage": "I",
+    "probability": 22,
+    "processStage": "need-analysis",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Planning for new MRI. Visit scheduled."
+    ],
+    "activities": [
+      {
+        "date": "2026-05-14",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-05-21",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-05-25",
+        "title": "Latest field update",
+        "note": "Planning for new MRI. Visit scheduled."
+      }
+    ],
+    "createdAt": "2026-04-22",
+    "lastUpdated": "2026-05-25",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": []
+  },
+  {
+    "id": "3I-FY26-0053",
+    "customer": "Amaracare",
+    "location": "Deoghar",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Multispeciality Hospital",
+    "modality": "MRI",
+    "product": "ANAMAYA",
+    "value": 0,
+    "siteStatus": "Ready",
+    "fundingStatus": "",
+    "expectedClosure": "",
+    "expectedClosureLabel": "Not scheduled",
+    "salesStatus": "Need Analysis",
+    "stage": "I",
+    "probability": 22,
+    "processStage": "need-analysis",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Customer wants three years deferred payments."
+    ],
+    "activities": [
+      {
+        "date": "2026-05-09",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-05-16",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-05-20",
+        "title": "Latest field update",
+        "note": "Customer wants three years deferred payments."
+      }
+    ],
+    "createdAt": "2026-04-16",
+    "lastUpdated": "2026-05-20",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": []
+  },
+  {
+    "id": "3I-FY26-0054",
+    "customer": "Fortuna Medsolution",
+    "location": "Patna",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 0,
+    "siteStatus": "Under Preparation",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "2027-06-30",
+    "expectedClosureLabel": "Next Financial Year",
+    "salesStatus": "Need Analysis",
+    "stage": "I",
+    "probability": 22,
+    "processStage": "need-analysis",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Configuration and images shared. Met the customer."
+    ],
+    "activities": [
+      {
+        "date": "2026-05-16",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-05-23",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-05-27",
+        "title": "Latest field update",
+        "note": "Configuration and images shared. Met the customer."
+      }
+    ],
+    "createdAt": "2026-04-22",
+    "lastUpdated": "2026-05-27",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Product recorded as 1.5 t"
+    ]
+  },
+  {
+    "id": "3I-FY26-0055",
+    "customer": "Sarita Diag",
+    "location": "Patna",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "ANAMAYA",
+    "value": 0,
+    "siteStatus": "Under Preparation",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "2027-06-30",
+    "expectedClosureLabel": "Next Financial Year",
+    "salesStatus": "Need Analysis",
+    "stage": "I",
+    "probability": 22,
+    "processStage": "need-analysis",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Shared introduction and ANAMAYA catalogue."
+    ],
+    "activities": [
+      {
+        "date": "2026-05-16",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-05-23",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-05-27",
+        "title": "Latest field update",
+        "note": "Shared introduction and ANAMAYA catalogue."
+      }
+    ],
+    "createdAt": "2026-04-21",
+    "lastUpdated": "2026-05-27",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": []
+  },
+  {
+    "id": "3I-FY26-0056",
+    "customer": "Kurma Sanskrit Medical College",
+    "location": "Jehanabad",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Medical College",
+    "modality": "MRI",
+    "product": "ANAMAYA",
+    "value": 0,
+    "siteStatus": "Under Preparation",
+    "fundingStatus": "",
+    "expectedClosure": "2027-06-30",
+    "expectedClosureLabel": "Next Financial Year",
+    "salesStatus": "Need Analysis",
+    "stage": "I",
+    "probability": 22,
+    "processStage": "need-analysis",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Shared introduction and ANAMAYA catalogue."
+    ],
+    "activities": [
+      {
+        "date": "2026-05-16",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-05-23",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-05-27",
+        "title": "Latest field update",
+        "note": "Shared introduction and ANAMAYA catalogue."
+      }
+    ],
+    "createdAt": "2026-04-20",
+    "lastUpdated": "2026-05-27",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": []
+  },
+  {
+    "id": "3I-FY26-0057",
+    "customer": "Abhiegya Diag & Imaging",
+    "location": "Patna",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 0,
+    "siteStatus": "To Be Identified",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "",
+    "expectedClosureLabel": "Not scheduled",
+    "salesStatus": "New Enquiry",
+    "stage": "I",
+    "probability": 15,
+    "processStage": "new-enquiry",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [],
+    "activities": [
+      {
+        "date": "2026-04-22",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      }
+    ],
+    "createdAt": "2026-03-19",
+    "lastUpdated": "2026-04-26",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": []
+  },
+  {
+    "id": "3I-FY26-0058",
+    "customer": "Sanjeevani Diag",
+    "location": "Katihar",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 0,
+    "siteStatus": "Ready",
+    "fundingStatus": "Under Negotiation",
+    "expectedClosure": "2027-06-30",
+    "expectedClosureLabel": "Next Financial Year",
+    "salesStatus": "Quotation Submitted",
+    "stage": "I",
+    "probability": 45,
+    "processStage": "quotation",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Discussion going on."
+    ],
+    "activities": [
+      {
+        "date": "2026-05-07",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-05-14",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-05-21",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2026-05-28",
+        "title": "Proposal / Quotation",
+        "note": "Quotation submitted to customer."
+      },
+      {
+        "date": "2026-06-01",
+        "title": "Latest field update",
+        "note": "Discussion going on."
+      }
+    ],
+    "createdAt": "2026-04-23",
+    "lastUpdated": "2026-06-01",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Stage I with Quotation Submitted"
+    ]
+  },
+  {
+    "id": "3I-FY26-0059",
+    "customer": "B S Diagnostic",
+    "location": "Kolkata",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "3T MRI",
+    "value": 550,
+    "siteStatus": "Ready",
+    "fundingStatus": "Under Negotiation",
+    "expectedClosure": "2026-05-15",
+    "expectedClosureLabel": "Lost",
+    "salesStatus": "Lost",
+    "stage": "II",
+    "probability": 0,
+    "processStage": "lost",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Lost to Phantom."
+    ],
+    "activities": [
+      {
+        "date": "2026-05-15",
+        "title": "Latest field update",
+        "note": "Lost to Phantom."
+      },
+      {
+        "date": "2026-05-15",
+        "title": "Marked lost",
+        "note": "Opportunity closed as lost."
+      }
+    ],
+    "createdAt": "2026-04-05",
+    "lastUpdated": "2026-05-15",
+    "outcome": "lost",
+    "lostReason": "Competitor",
+    "competitor": "Phantom",
+    "dateLost": "2026-05-15",
+    "dataIssues": []
+  },
+  {
+    "id": "3I-FY26-0060",
+    "customer": "Shriniwas Medical College",
+    "location": "Chhapra",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Medical College",
+    "modality": "MRI",
+    "product": "ANAMAYA",
+    "value": 5.5,
+    "siteStatus": "Ready",
+    "fundingStatus": "",
+    "expectedClosure": "",
+    "expectedClosureLabel": "Not scheduled",
+    "salesStatus": "New Enquiry",
+    "stage": "I",
+    "probability": 15,
+    "processStage": "new-enquiry",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "AMTZ discussion."
+    ],
+    "activities": [
+      {
+        "date": "2026-04-15",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-04-19",
+        "title": "Latest field update",
+        "note": "AMTZ discussion."
+      }
+    ],
+    "createdAt": "2026-03-09",
+    "lastUpdated": "2026-04-19",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": []
+  },
+  {
+    "id": "3I-FY26-0061",
+    "customer": "Genuine Medica",
+    "location": "Patna",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Dealer",
+    "modality": "Digital Radiography",
+    "product": "FPD",
+    "value": 8,
+    "siteStatus": "",
+    "fundingStatus": "Under Negotiation",
+    "expectedClosure": "2026-07-10",
+    "expectedClosureLabel": "10 July 2026",
+    "salesStatus": "Commercial Negotiation",
+    "stage": "II",
+    "probability": 70,
+    "processStage": "negotiation",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "They have 5 X-ray and FPD leads. Negotiation ongoing."
+    ],
+    "activities": [
+      {
+        "date": "2026-05-17",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-05-24",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-05-31",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2026-06-07",
+        "title": "Proposal / Quotation",
+        "note": "Quotation submitted to customer."
+      },
+      {
+        "date": "2026-06-14",
+        "title": "Commercial Negotiation",
+        "note": "Commercial negotiation in progress."
+      },
+      {
+        "date": "2026-06-18",
+        "title": "Latest field update",
+        "note": "They have 5 X-ray and FPD leads. Negotiation ongoing."
+      }
+    ],
+    "createdAt": "2026-05-07",
+    "lastUpdated": "2026-06-18",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Closure already past"
+    ]
+  },
+  {
+    "id": "3I-FY26-0062",
+    "customer": "Mediequip",
+    "location": "Kolkata",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Dealer",
+    "modality": "Digital Radiography",
+    "product": "FPD",
+    "value": 8,
+    "siteStatus": "",
+    "fundingStatus": "Under Negotiation",
+    "expectedClosure": "2026-07-15",
+    "expectedClosureLabel": "Before 15 July 2026",
+    "salesStatus": "Commercial Negotiation",
+    "stage": "II",
+    "probability": 70,
+    "processStage": "negotiation",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Wants demo units. Expected to finalise first week of period."
+    ],
+    "activities": [
+      {
+        "date": "2026-05-15",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-05-22",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-05-29",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2026-06-05",
+        "title": "Proposal / Quotation",
+        "note": "Quotation submitted to customer."
+      },
+      {
+        "date": "2026-06-12",
+        "title": "Commercial Negotiation",
+        "note": "Commercial negotiation in progress."
+      },
+      {
+        "date": "2026-06-16",
+        "title": "Latest field update",
+        "note": "Wants demo units. Expected to finalise first week of period."
+      }
+    ],
+    "createdAt": "2026-05-04",
+    "lastUpdated": "2026-06-16",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Closure already past"
+    ]
+  },
+  {
+    "id": "3I-FY26-0063",
+    "customer": "Tirhut X Ray",
+    "location": "Muzaffarpur",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Diagnostic Centre",
+    "modality": "Digital Radiography",
+    "product": "FPD",
+    "value": 8,
+    "siteStatus": "Ready",
+    "fundingStatus": "Under Negotiation",
+    "expectedClosure": "2026-06-25",
+    "expectedClosureLabel": "25 June 2026",
+    "salesStatus": "Commercial Negotiation",
+    "stage": "III",
+    "probability": 70,
+    "processStage": "negotiation",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [],
+    "activities": [
+      {
+        "date": "2026-05-11",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-05-18",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-05-25",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2026-06-01",
+        "title": "Proposal / Quotation",
+        "note": "Quotation submitted to customer."
+      },
+      {
+        "date": "2026-06-08",
+        "title": "Commercial Negotiation",
+        "note": "Commercial negotiation in progress."
+      }
+    ],
+    "createdAt": "2026-04-29",
+    "lastUpdated": "2026-06-12",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Overdue closure"
+    ]
+  },
+  {
+    "id": "3I-FY26-0064",
+    "customer": "Wellness Imaging",
+    "location": "Siwan",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Diagnostic Centre",
+    "modality": "Digital Radiography",
+    "product": "FPD",
+    "value": 8,
+    "siteStatus": "Under Preparation",
+    "fundingStatus": "Under Negotiation",
+    "expectedClosure": "2026-07-05",
+    "expectedClosureLabel": "5 July 2026",
+    "salesStatus": "Commercial Negotiation",
+    "stage": "III",
+    "probability": 70,
+    "processStage": "negotiation",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [],
+    "activities": [
+      {
+        "date": "2026-05-13",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-05-20",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-05-27",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2026-06-03",
+        "title": "Proposal / Quotation",
+        "note": "Quotation submitted to customer."
+      },
+      {
+        "date": "2026-06-10",
+        "title": "Commercial Negotiation",
+        "note": "Commercial negotiation in progress."
+      }
+    ],
+    "createdAt": "2026-04-30",
+    "lastUpdated": "2026-06-14",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Overdue closure"
+    ]
+  },
+  {
+    "id": "3I-FY26-0065",
+    "customer": "Nirshu Babu Memorial",
+    "location": "Begusarai",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Multispeciality Hospital",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 0,
+    "siteStatus": "",
+    "fundingStatus": "",
+    "expectedClosure": "",
+    "expectedClosureLabel": "Not scheduled",
+    "salesStatus": "New Enquiry",
+    "stage": "I",
+    "probability": 15,
+    "processStage": "new-enquiry",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Planning for Siemens Free Star and CT."
+    ],
+    "activities": [
+      {
+        "date": "2026-04-10",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-04-14",
+        "title": "Latest field update",
+        "note": "Planning for Siemens Free Star and CT."
+      }
+    ],
+    "createdAt": "2026-02-27",
+    "lastUpdated": "2026-04-14",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Product recorded as PMRI"
+    ]
+  },
+  {
+    "id": "3I-FY26-0066",
+    "customer": "Jeevan Dhan",
+    "location": "Patna",
+    "region": "Prem Territory",
+    "regionKey": "north",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 0,
+    "siteStatus": "",
+    "fundingStatus": "",
+    "expectedClosure": "2026-03-20",
+    "expectedClosureLabel": "Lost",
+    "salesStatus": "Lost",
+    "stage": "II",
+    "probability": 0,
+    "processStage": "lost",
+    "owner": "Prem Kumar Thakur",
+    "remarks": [
+      "Recorded on Lost Business sheet. Lost to United."
+    ],
+    "activities": [
+      {
+        "date": "2026-03-20",
+        "title": "Latest field update",
+        "note": "Recorded on Lost Business sheet. Lost to United."
+      },
+      {
+        "date": "2026-03-20",
+        "title": "Marked lost",
+        "note": "Opportunity closed as lost."
+      }
+    ],
+    "createdAt": "2026-02-01",
+    "lastUpdated": "2026-03-20",
+    "outcome": "lost",
+    "lostReason": "Competitor",
+    "competitor": "United Imaging",
+    "dateLost": "2026-03-20",
+    "dataIssues": [
+      "Lost Business sheet has no location, product or value"
+    ]
+  },
+  {
+    "id": "3I-FY26-0067",
+    "customer": "Dr Akhil Khan",
+    "location": "Pune",
+    "region": "West",
+    "regionKey": "west",
+    "customerType": "Hospital",
+    "modality": "MRI",
+    "product": "ANAMAYA",
+    "value": 500,
+    "siteStatus": "Ready",
+    "fundingStatus": "DO/LC Received",
+    "expectedClosure": "2025-08-20",
+    "expectedClosureLabel": "20 Aug 2025",
+    "salesStatus": "Booked",
+    "stage": "IV",
+    "probability": 100,
+    "processStage": "booked",
+    "owner": "West Sales Team",
+    "remarks": [
+      "PO and advance received."
+    ],
+    "activities": [
+      {
+        "date": "2025-06-28",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2025-07-05",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2025-07-12",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2025-07-19",
+        "title": "Proposal / Quotation",
+        "note": "Quotation submitted to customer."
+      },
+      {
+        "date": "2025-07-26",
+        "title": "Commercial Negotiation",
+        "note": "Commercial negotiation in progress."
+      },
+      {
+        "date": "2025-08-02",
+        "title": "Finalisation",
+        "note": "Deal moved to finalisation. Awaiting internal / customer confirmation."
+      },
+      {
+        "date": "2025-08-09",
+        "title": "Order & Advance",
+        "note": "Order and advance collection in progress."
+      },
+      {
+        "date": "2025-08-16",
+        "title": "Booked / Won",
+        "note": "PO and advance received. Opportunity booked."
+      },
+      {
+        "date": "2025-08-20",
+        "title": "Latest field update",
+        "note": "PO and advance received."
+      }
+    ],
+    "createdAt": "2025-07-03",
+    "lastUpdated": "2025-08-20",
+    "outcome": "booked",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": []
+  },
+  {
+    "id": "3I-FY26-0068",
+    "customer": "Dr Akhil Khan",
+    "location": "Thane",
+    "region": "West",
+    "regionKey": "west",
+    "customerType": "Hospital",
+    "modality": "MRI",
+    "product": "ANAMAYA",
+    "value": 500,
+    "siteStatus": "Ready",
+    "fundingStatus": "DO/LC Received",
+    "expectedClosure": "2025-08-20",
+    "expectedClosureLabel": "20 Aug 2025",
+    "salesStatus": "Booked",
+    "stage": "IV",
+    "probability": 100,
+    "processStage": "booked",
+    "owner": "West Sales Team",
+    "remarks": [
+      "PO and advance received."
+    ],
+    "activities": [
+      {
+        "date": "2025-06-28",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2025-07-05",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2025-07-12",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2025-07-19",
+        "title": "Proposal / Quotation",
+        "note": "Quotation submitted to customer."
+      },
+      {
+        "date": "2025-07-26",
+        "title": "Commercial Negotiation",
+        "note": "Commercial negotiation in progress."
+      },
+      {
+        "date": "2025-08-02",
+        "title": "Finalisation",
+        "note": "Deal moved to finalisation. Awaiting internal / customer confirmation."
+      },
+      {
+        "date": "2025-08-09",
+        "title": "Order & Advance",
+        "note": "Order and advance collection in progress."
+      },
+      {
+        "date": "2025-08-16",
+        "title": "Booked / Won",
+        "note": "PO and advance received. Opportunity booked."
+      },
+      {
+        "date": "2025-08-20",
+        "title": "Latest field update",
+        "note": "PO and advance received."
+      }
+    ],
+    "createdAt": "2025-07-02",
+    "lastUpdated": "2025-08-20",
+    "outcome": "booked",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": []
+  },
+  {
+    "id": "3I-FY26-0069",
+    "customer": "Mediscan / Dr Shibu Acharya",
+    "location": "Gondia",
+    "region": "West",
+    "regionKey": "west",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "ACHIEVA 3T",
+    "value": 500,
+    "siteStatus": "Under Preparation",
+    "fundingStatus": "Approached Bank",
+    "expectedClosure": "2026-01-10",
+    "expectedClosureLabel": "10 Jan 2026",
+    "salesStatus": "PO ADV Collected",
+    "stage": "IV",
+    "probability": 95,
+    "processStage": "order",
+    "owner": "West Sales Team",
+    "remarks": [
+      "PO received. Advance to be collected."
+    ],
+    "activities": [
+      {
+        "date": "2025-12-26",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-01-02",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-01-09",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2026-01-16",
+        "title": "Proposal / Quotation",
+        "note": "Quotation submitted to customer."
+      },
+      {
+        "date": "2026-01-23",
+        "title": "Commercial Negotiation",
+        "note": "Commercial negotiation in progress."
+      },
+      {
+        "date": "2026-01-30",
+        "title": "Finalisation",
+        "note": "Deal moved to finalisation. Awaiting internal / customer confirmation."
+      },
+      {
+        "date": "2026-02-06",
+        "title": "Order & Advance",
+        "note": "Order and advance collection in progress."
+      },
+      {
+        "date": "2026-02-10",
+        "title": "Latest field update",
+        "note": "PO received. Advance to be collected."
+      }
+    ],
+    "createdAt": "2025-12-22",
+    "lastUpdated": "2026-02-10",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Billing month recorded as feb",
+      "Closure already past"
+    ]
+  },
+  {
+    "id": "3I-FY26-0070",
+    "customer": "Ruby Medical",
+    "location": "Srirampur",
+    "region": "West",
+    "regionKey": "west",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "ANAMAYA",
+    "value": 500,
+    "siteStatus": "Ready",
+    "fundingStatus": "Approached Bank",
+    "expectedClosure": "2026-02-20",
+    "expectedClosureLabel": "20 Feb 2026",
+    "salesStatus": "Commercial Negotiation",
+    "stage": "III",
+    "probability": 70,
+    "processStage": "negotiation",
+    "owner": "West Sales Team",
+    "remarks": [],
+    "activities": [
+      {
+        "date": "2026-01-12",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-01-19",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-01-26",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2026-02-02",
+        "title": "Proposal / Quotation",
+        "note": "Quotation submitted to customer."
+      },
+      {
+        "date": "2026-02-09",
+        "title": "Commercial Negotiation",
+        "note": "Commercial negotiation in progress."
+      }
+    ],
+    "createdAt": "2025-12-24",
+    "lastUpdated": "2026-02-13",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Overdue vs tracker date"
+    ]
+  },
+  {
+    "id": "3I-FY26-0071",
+    "customer": "Mandavgan Pharata Medical College",
+    "location": "Shirur",
+    "region": "West",
+    "regionKey": "west",
+    "customerType": "Hospital",
+    "modality": "MRI",
+    "product": "ANAMAYA",
+    "value": 500,
+    "siteStatus": "Ready",
+    "fundingStatus": "Self Funding",
+    "expectedClosure": "2026-02-28",
+    "expectedClosureLabel": "28 Feb 2026",
+    "salesStatus": "Commercial Negotiation",
+    "stage": "III",
+    "probability": 70,
+    "processStage": "negotiation",
+    "owner": "West Sales Team",
+    "remarks": [
+      "Customer expecting government confirmation by 20 Feb 2026."
+    ],
+    "activities": [
+      {
+        "date": "2026-01-11",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-01-18",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-01-25",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2026-02-01",
+        "title": "Proposal / Quotation",
+        "note": "Quotation submitted to customer."
+      },
+      {
+        "date": "2026-02-08",
+        "title": "Commercial Negotiation",
+        "note": "Commercial negotiation in progress."
+      },
+      {
+        "date": "2026-02-12",
+        "title": "Latest field update",
+        "note": "Customer expecting government confirmation by 20 Feb 2026."
+      }
+    ],
+    "createdAt": "2025-12-22",
+    "lastUpdated": "2026-02-12",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Spelling: Collage",
+      "Overdue closure"
+    ]
+  },
+  {
+    "id": "3I-FY26-0072",
+    "customer": "Dr Girish Kakde",
+    "location": "Pune",
+    "region": "West",
+    "regionKey": "west",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "ACHIEVA 3T",
+    "value": 550,
+    "siteStatus": "Under Preparation",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "2026-02-28",
+    "expectedClosureLabel": "28 Feb 2026",
+    "salesStatus": "Technical Discussion",
+    "stage": "II",
+    "probability": 28,
+    "processStage": "technical",
+    "owner": "West Sales Team",
+    "remarks": [
+      "Customer will call us for negotiation."
+    ],
+    "activities": [
+      {
+        "date": "2026-01-24",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-01-31",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-02-07",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2026-02-11",
+        "title": "Latest field update",
+        "note": "Customer will call us for negotiation."
+      }
+    ],
+    "createdAt": "2025-12-20",
+    "lastUpdated": "2026-02-11",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Overdue closure"
+    ]
+  },
+  {
+    "id": "3I-FY26-0073",
+    "customer": "Dr Girish Kakde / Dr Deotale",
+    "location": "Yavatmal",
+    "region": "West",
+    "regionKey": "west",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "ANAMAYA",
+    "value": 550,
+    "siteStatus": "Under Preparation",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "2026-02-28",
+    "expectedClosureLabel": "28 Feb 2026",
+    "salesStatus": "Technical Discussion",
+    "stage": "I",
+    "probability": 28,
+    "processStage": "technical",
+    "owner": "West Sales Team",
+    "remarks": [
+      "Customer will call us for negotiation."
+    ],
+    "activities": [
+      {
+        "date": "2026-01-24",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-01-31",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-02-07",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2026-02-11",
+        "title": "Latest field update",
+        "note": "Customer will call us for negotiation."
+      }
+    ],
+    "createdAt": "2025-12-19",
+    "lastUpdated": "2026-02-11",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": []
+  },
+  {
+    "id": "3I-FY26-0074",
+    "customer": "Gadkari Hospital / Mr Manish Kedia",
+    "location": "Nagpur",
+    "region": "West",
+    "regionKey": "west",
+    "customerType": "Hospital",
+    "modality": "MRI",
+    "product": "ANAMAYA",
+    "value": 550,
+    "siteStatus": "Under Preparation",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "2026-12-15",
+    "expectedClosureLabel": "Looking at two sites",
+    "salesStatus": "Technical Discussion",
+    "stage": "I",
+    "probability": 28,
+    "processStage": "technical",
+    "owner": "West Sales Team",
+    "remarks": [
+      "Wants to visit AMTZ setup. Looking for 2 systems (Nagpur & Washim)."
+    ],
+    "activities": [
+      {
+        "date": "2026-01-21",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-01-28",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-02-04",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2026-02-08",
+        "title": "Latest field update",
+        "note": "Wants to visit AMTZ setup. Looking for 2 systems (Nagpur & Washim)."
+      }
+    ],
+    "createdAt": "2025-12-15",
+    "lastUpdated": "2026-02-08",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Missing stage in original row"
+    ]
+  },
+  {
+    "id": "3I-FY26-0075",
+    "customer": "Dr Sachin Pathak",
+    "location": "Kalyan",
+    "region": "West",
+    "regionKey": "west",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "ANAMAYA",
+    "value": 550,
+    "siteStatus": "Under Preparation",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "",
+    "expectedClosureLabel": "Not scheduled",
+    "salesStatus": "New Enquiry",
+    "stage": "I",
+    "probability": 15,
+    "processStage": "new-enquiry",
+    "owner": "West Sales Team",
+    "remarks": [
+      "IRIA enquiry."
+    ],
+    "activities": [
+      {
+        "date": "2026-02-01",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-02-05",
+        "title": "Latest field update",
+        "note": "IRIA enquiry."
+      }
+    ],
+    "createdAt": "2025-12-11",
+    "lastUpdated": "2026-02-05",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Status: New Enquiry Need to validate"
+    ]
+  },
+  {
+    "id": "3I-FY26-0076",
+    "customer": "Unity Healthcare / Mr Mayur Dokhale",
+    "location": "Malegaon",
+    "region": "West",
+    "regionKey": "west",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "ACHIEVA 3T",
+    "value": 500,
+    "siteStatus": "Under Preparation",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "",
+    "expectedClosureLabel": "Not scheduled",
+    "salesStatus": "New Enquiry",
+    "stage": "I",
+    "probability": 15,
+    "processStage": "new-enquiry",
+    "owner": "West Sales Team",
+    "remarks": [
+      "IRIA enquiry."
+    ],
+    "activities": [
+      {
+        "date": "2026-02-01",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-02-05",
+        "title": "Latest field update",
+        "note": "IRIA enquiry."
+      }
+    ],
+    "createdAt": "2025-12-10",
+    "lastUpdated": "2026-02-05",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": []
+  },
+  {
+    "id": "3I-FY26-0077",
+    "customer": "Dr Jitendra Modi",
+    "location": "Vadodara",
+    "region": "West",
+    "regionKey": "west",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "ANAMAYA",
+    "value": 550,
+    "siteStatus": "Under Preparation",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "",
+    "expectedClosureLabel": "Not scheduled",
+    "salesStatus": "New Enquiry",
+    "stage": "I",
+    "probability": 15,
+    "processStage": "new-enquiry",
+    "owner": "West Sales Team",
+    "remarks": [
+      "IRIA enquiry."
+    ],
+    "activities": [
+      {
+        "date": "2026-02-01",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-02-05",
+        "title": "Latest field update",
+        "note": "IRIA enquiry."
+      }
+    ],
+    "createdAt": "2025-12-09",
+    "lastUpdated": "2026-02-05",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": []
+  },
+  {
+    "id": "3I-FY26-0078",
+    "customer": "Dr Sandip Mevada",
+    "location": "Ahmedabad",
+    "region": "West",
+    "regionKey": "west",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "ANAMAYA",
+    "value": 550,
+    "siteStatus": "Under Preparation",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "",
+    "expectedClosureLabel": "Not scheduled",
+    "salesStatus": "New Enquiry",
+    "stage": "I",
+    "probability": 15,
+    "processStage": "new-enquiry",
+    "owner": "West Sales Team",
+    "remarks": [
+      "IRIA enquiry."
+    ],
+    "activities": [
+      {
+        "date": "2026-02-01",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-02-05",
+        "title": "Latest field update",
+        "note": "IRIA enquiry."
+      }
+    ],
+    "createdAt": "2025-12-08",
+    "lastUpdated": "2026-02-05",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": []
+  },
+  {
+    "id": "3I-FY26-0079",
+    "customer": "Dr Rajendra Solanki",
+    "location": "Mehsana",
+    "region": "West",
+    "regionKey": "west",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "ANAMAYA",
+    "value": 550,
+    "siteStatus": "Under Preparation",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "",
+    "expectedClosureLabel": "Not scheduled",
+    "salesStatus": "New Enquiry",
+    "stage": "I",
+    "probability": 15,
+    "processStage": "new-enquiry",
+    "owner": "West Sales Team",
+    "remarks": [
+      "IRIA enquiry."
+    ],
+    "activities": [
+      {
+        "date": "2026-02-01",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-02-05",
+        "title": "Latest field update",
+        "note": "IRIA enquiry."
+      }
+    ],
+    "createdAt": "2025-12-07",
+    "lastUpdated": "2026-02-05",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Location recorded as Mehasana"
+    ]
+  },
+  {
+    "id": "3I-FY26-0080",
+    "customer": "Dr Rajesh Choudhary",
+    "location": "Bhiwandi",
+    "region": "West",
+    "regionKey": "west",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "ANAMAYA",
+    "value": 550,
+    "siteStatus": "Under Preparation",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "",
+    "expectedClosureLabel": "Not scheduled",
+    "salesStatus": "New Enquiry",
+    "stage": "I",
+    "probability": 15,
+    "processStage": "new-enquiry",
+    "owner": "West Sales Team",
+    "remarks": [
+      "IRIA enquiry."
+    ],
+    "activities": [
+      {
+        "date": "2026-02-01",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-02-05",
+        "title": "Latest field update",
+        "note": "IRIA enquiry."
+      }
+    ],
+    "createdAt": "2025-12-06",
+    "lastUpdated": "2026-02-05",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Location recorded as Bhivandi"
+    ]
+  },
+  {
+    "id": "3I-FY26-0081",
+    "customer": "Dr Akash Mahale",
+    "location": "Nagpur",
+    "region": "West",
+    "regionKey": "west",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "ANAMAYA",
+    "value": 550,
+    "siteStatus": "Under Preparation",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "",
+    "expectedClosureLabel": "Not scheduled",
+    "salesStatus": "New Enquiry",
+    "stage": "I",
+    "probability": 15,
+    "processStage": "new-enquiry",
+    "owner": "West Sales Team",
+    "remarks": [
+      "IRIA enquiry."
+    ],
+    "activities": [
+      {
+        "date": "2026-02-01",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-02-05",
+        "title": "Latest field update",
+        "note": "IRIA enquiry."
+      }
+    ],
+    "createdAt": "2026-01-14",
+    "lastUpdated": "2026-02-05",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": []
+  },
+  {
+    "id": "3I-FY26-0082",
+    "customer": "Dr Madhusudan Sarda",
+    "location": "Nagpur",
+    "region": "West",
+    "regionKey": "west",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "ANAMAYA",
+    "value": 550,
+    "siteStatus": "Under Preparation",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "",
+    "expectedClosureLabel": "Not scheduled",
+    "salesStatus": "New Enquiry",
+    "stage": "I",
+    "probability": 15,
+    "processStage": "new-enquiry",
+    "owner": "West Sales Team",
+    "remarks": [
+      "IRIA enquiry."
+    ],
+    "activities": [
+      {
+        "date": "2026-02-01",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-02-05",
+        "title": "Latest field update",
+        "note": "IRIA enquiry."
+      }
+    ],
+    "createdAt": "2026-01-13",
+    "lastUpdated": "2026-02-05",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": []
+  },
+  {
+    "id": "3I-FY26-0083",
+    "customer": "Dr R K Sodani",
+    "location": "Ujjain",
+    "region": "West",
+    "regionKey": "west",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "ANAMAYA",
+    "value": 550,
+    "siteStatus": "To Be Identified",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "2026-11-30",
+    "expectedClosureLabel": "Site search",
+    "salesStatus": "Technical Discussion",
+    "stage": "I",
+    "probability": 28,
+    "processStage": "technical",
+    "owner": "West Sales Team",
+    "remarks": [
+      "Searching for site in Ujjain."
+    ],
+    "activities": [
+      {
+        "date": "2026-01-22",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-01-29",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-02-05",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2026-02-09",
+        "title": "Latest field update",
+        "note": "Searching for site in Ujjain."
+      }
+    ],
+    "createdAt": "2026-01-16",
+    "lastUpdated": "2026-02-09",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": []
+  },
+  {
+    "id": "3I-FY26-0084",
+    "customer": "Dr Sujeet Agarwal",
+    "location": "Raipur",
+    "region": "West",
+    "regionKey": "west",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "ACHIEVA 3T",
+    "value": 550,
+    "siteStatus": "Under Preparation",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "2026-12-31",
+    "expectedClosureLabel": "New centre plan",
+    "salesStatus": "Technical Discussion",
+    "stage": "I",
+    "probability": 28,
+    "processStage": "technical",
+    "owner": "West Sales Team",
+    "remarks": [
+      "Radiologist planning for new centre in Raipur."
+    ],
+    "activities": [
+      {
+        "date": "2026-01-22",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-01-29",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-02-05",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2026-02-09",
+        "title": "Latest field update",
+        "note": "Radiologist planning for new centre in Raipur."
+      }
+    ],
+    "createdAt": "2026-01-15",
+    "lastUpdated": "2026-02-09",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": []
+  },
+  {
+    "id": "3I-FY26-0085",
+    "customer": "Dr Harshavardhan Jain",
+    "location": "Nagpur",
+    "region": "West",
+    "regionKey": "west",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "ACHIEVA 3T",
+    "value": 550,
+    "siteStatus": "Ready",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "2026-12-15",
+    "expectedClosureLabel": "Looking for site",
+    "salesStatus": "Technical Discussion",
+    "stage": "I",
+    "probability": 28,
+    "processStage": "technical",
+    "owner": "West Sales Team",
+    "remarks": [
+      "Planning 128-slice CT and 3T in Nagpur. Looking for site."
+    ],
+    "activities": [
+      {
+        "date": "2026-01-23",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-01-30",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-02-06",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2026-02-10",
+        "title": "Latest field update",
+        "note": "Planning 128-slice CT and 3T in Nagpur. Looking for site."
+      }
+    ],
+    "createdAt": "2026-01-15",
+    "lastUpdated": "2026-02-10",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Site Status Ready vs remark looking for site"
+    ]
+  },
+  {
+    "id": "3I-FY26-0086",
+    "customer": "Dr Naitik Chaudhari",
+    "location": "Vyara",
+    "region": "West",
+    "regionKey": "west",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "ANAMAYA",
+    "value": 550,
+    "siteStatus": "To Be Identified",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "2026-11-15",
+    "expectedClosureLabel": "Post Diwali discussion",
+    "salesStatus": "Technical Discussion",
+    "stage": "I",
+    "probability": 28,
+    "processStage": "technical",
+    "owner": "West Sales Team",
+    "remarks": [
+      "Customer searching for site. Will call for technical discussion post Diwali."
+    ],
+    "activities": [
+      {
+        "date": "2026-01-20",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-01-27",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-02-03",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2026-02-07",
+        "title": "Latest field update",
+        "note": "Customer searching for site. Will call for technical discussion post Diwali."
+      }
+    ],
+    "createdAt": "2026-01-11",
+    "lastUpdated": "2026-02-07",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": []
+  },
+  {
+    "id": "3I-FY26-0087",
+    "customer": "Dr Deepak Patkar",
+    "location": "Badlapur",
+    "region": "West",
+    "regionKey": "west",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "ANAMAYA",
+    "value": 550,
+    "siteStatus": "To Be Identified",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "2026-09-30",
+    "expectedClosureLabel": "Proposal requested",
+    "salesStatus": "Technical Discussion",
+    "stage": "II",
+    "probability": 28,
+    "processStage": "technical",
+    "owner": "West Sales Team",
+    "remarks": [
+      "Customer wants proposal as discussed."
+    ],
+    "activities": [
+      {
+        "date": "2026-01-21",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-01-28",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-02-04",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2026-02-08",
+        "title": "Latest field update",
+        "note": "Customer wants proposal as discussed."
+      }
+    ],
+    "createdAt": "2026-01-11",
+    "lastUpdated": "2026-02-08",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": []
+  },
+  {
+    "id": "3I-FY26-0088",
+    "customer": "Dr Rohit Luthra",
+    "location": "Pune",
+    "region": "West",
+    "regionKey": "west",
+    "customerType": "Hospital",
+    "modality": "MRI",
+    "product": "ANAMAYA",
+    "value": 550,
+    "siteStatus": "Under Preparation",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "2026-11-30",
+    "expectedClosureLabel": "Site under construction",
+    "salesStatus": "New Enquiry",
+    "stage": "I",
+    "probability": 15,
+    "processStage": "new-enquiry",
+    "owner": "West Sales Team",
+    "remarks": [
+      "Site under construction, expected ready by November."
+    ],
+    "activities": [
+      {
+        "date": "2026-02-02",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-02-06",
+        "title": "Latest field update",
+        "note": "Site under construction, expected ready by November."
+      }
+    ],
+    "createdAt": "2026-01-08",
+    "lastUpdated": "2026-02-06",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": []
+  },
+  {
+    "id": "3I-FY26-0089",
+    "customer": "Dr Pratik Mittal",
+    "location": "Dhar",
+    "region": "West",
+    "regionKey": "west",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "ANAMAYA",
+    "value": 550,
+    "siteStatus": "Under Preparation",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "2026-11-30",
+    "expectedClosureLabel": "2–3 months",
+    "salesStatus": "New Enquiry",
+    "stage": "I",
+    "probability": 15,
+    "processStage": "new-enquiry",
+    "owner": "West Sales Team",
+    "remarks": [
+      "Will take 2–3 months."
+    ],
+    "activities": [
+      {
+        "date": "2026-02-02",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-02-06",
+        "title": "Latest field update",
+        "note": "Will take 2–3 months."
+      }
+    ],
+    "createdAt": "2026-01-07",
+    "lastUpdated": "2026-02-06",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": []
+  },
+  {
+    "id": "3I-FY26-0090",
+    "customer": "Dr Tanmay Divte",
+    "location": "Nagpur",
+    "region": "West",
+    "regionKey": "west",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "ANAMAYA",
+    "value": 550,
+    "siteStatus": "Under Preparation",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "2026-12-31",
+    "expectedClosureLabel": "December end",
+    "salesStatus": "Technical Discussion",
+    "stage": "I",
+    "probability": 28,
+    "processStage": "technical",
+    "owner": "West Sales Team",
+    "remarks": [
+      "Site will be ready by December end."
+    ],
+    "activities": [
+      {
+        "date": "2026-01-20",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-01-27",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-02-03",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2026-02-07",
+        "title": "Latest field update",
+        "note": "Site will be ready by December end."
+      }
+    ],
+    "createdAt": "2026-01-07",
+    "lastUpdated": "2026-02-07",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": []
+  },
+  {
+    "id": "3I-FY26-0091",
+    "customer": "Dr Rahul Adwal",
+    "location": "Ujjain",
+    "region": "West",
+    "regionKey": "west",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "ANAMAYA",
+    "value": 500,
+    "siteStatus": "To Be Identified",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "",
+    "expectedClosureLabel": "Not scheduled",
+    "salesStatus": "Technical Discussion",
+    "stage": "I",
+    "probability": 28,
+    "processStage": "technical",
+    "owner": "West Sales Team",
+    "remarks": [
+      "Customer searching for site. Limited budget."
+    ],
+    "activities": [
+      {
+        "date": "2026-01-20",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-01-27",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-02-03",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2026-02-07",
+        "title": "Latest field update",
+        "note": "Customer searching for site. Limited budget."
+      }
+    ],
+    "createdAt": "2026-01-06",
+    "lastUpdated": "2026-02-07",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": []
+  },
+  {
+    "id": "3I-FY26-0092",
+    "customer": "Dr Vaibhav Nasre",
+    "location": "Nagpur",
+    "region": "West",
+    "regionKey": "west",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "ANAMAYA",
+    "value": 500,
+    "siteStatus": "Ready",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "2026-09-30",
+    "expectedClosureLabel": "On hold till Jan 26",
+    "salesStatus": "Technical Discussion",
+    "stage": "I",
+    "probability": 28,
+    "processStage": "technical",
+    "owner": "West Sales Team",
+    "remarks": [
+      "Project on hold. Discussion to restart in Jan 2026."
+    ],
+    "activities": [
+      {
+        "date": "2026-01-02",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-01-09",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-01-16",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2026-01-20",
+        "title": "Latest field update",
+        "note": "Project on hold. Discussion to restart in Jan 2026."
+      }
+    ],
+    "createdAt": "2025-12-18",
+    "lastUpdated": "2026-01-20",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Hold remark vs current date"
+    ]
+  },
+  {
+    "id": "3I-FY26-0093",
+    "customer": "Suburban Diagnostics",
+    "location": "Mumbai",
+    "region": "West",
+    "regionKey": "west",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 550,
+    "siteStatus": "",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "2026-01-15",
+    "expectedClosureLabel": "Cancelled",
+    "salesStatus": "Cancelled",
+    "stage": "II",
+    "probability": 0,
+    "processStage": "cancelled",
+    "owner": "West Sales Team",
+    "remarks": [
+      "Customer discussed with all OEMs participating in PPP project."
+    ],
+    "activities": [
+      {
+        "date": "2026-01-15",
+        "title": "Latest field update",
+        "note": "Customer discussed with all OEMs participating in PPP project."
+      },
+      {
+        "date": "2026-01-15",
+        "title": "Project cancelled",
+        "note": "Customer project cancelled / put on hold."
+      }
+    ],
+    "createdAt": "2025-12-12",
+    "lastUpdated": "2026-01-15",
+    "outcome": "cancelled",
+    "lostReason": "Project Cancelled",
+    "competitor": "",
+    "dateLost": "2026-01-15",
+    "dataIssues": [
+      "Spelling: Porject Cancelled / SUBERBAN"
+    ]
+  },
+  {
+    "id": "3I-FY26-0094",
+    "customer": "Dr Abhijit Magdum",
+    "location": "Kolhapur",
+    "region": "West",
+    "regionKey": "west",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 270,
+    "siteStatus": "",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "2026-01-20",
+    "expectedClosureLabel": "Cancelled",
+    "salesStatus": "Cancelled",
+    "stage": "I",
+    "probability": 0,
+    "processStage": "cancelled",
+    "owner": "West Sales Team",
+    "remarks": [
+      "In discussion with Phantom. Offer of ₹2.6 Cr with 3 years warranty. Project on hold."
+    ],
+    "activities": [
+      {
+        "date": "2026-01-20",
+        "title": "Latest field update",
+        "note": "In discussion with Phantom. Offer of ₹2.6 Cr with 3 years warranty. Project on hold."
+      },
+      {
+        "date": "2026-01-20",
+        "title": "Project cancelled",
+        "note": "Customer project cancelled / put on hold."
+      }
+    ],
+    "createdAt": "2025-12-16",
+    "lastUpdated": "2026-01-20",
+    "outcome": "cancelled",
+    "lostReason": "Project Cancelled",
+    "competitor": "Phantom",
+    "dateLost": "2026-01-20",
+    "dataIssues": [
+      "Spelling: Porject Cancelled"
+    ]
+  },
+  {
+    "id": "3I-FY26-0095",
+    "customer": "Dr Vikas Dole",
+    "location": "Panvel",
+    "region": "West",
+    "regionKey": "west",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "ACHIEVA 3T",
+    "value": 550,
+    "siteStatus": "To Be Identified",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "",
+    "expectedClosureLabel": "Not scheduled",
+    "salesStatus": "Technical Discussion",
+    "stage": "I",
+    "probability": 28,
+    "processStage": "technical",
+    "owner": "West Sales Team",
+    "remarks": [
+      "Customer searching for site."
+    ],
+    "activities": [
+      {
+        "date": "2026-01-17",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-01-24",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-01-31",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2026-02-04",
+        "title": "Latest field update",
+        "note": "Customer searching for site."
+      }
+    ],
+    "createdAt": "2025-12-30",
+    "lastUpdated": "2026-02-04",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": []
+  },
+  {
+    "id": "3I-FY26-0096",
+    "customer": "Dr Harshil Kalaria",
+    "location": "Ahmedabad",
+    "region": "West",
+    "regionKey": "west",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "ANAMAYA",
+    "value": 550,
+    "siteStatus": "To Be Identified",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "2026-10-31",
+    "expectedClosureLabel": "Site search",
+    "salesStatus": "Technical Discussion",
+    "stage": "II",
+    "probability": 28,
+    "processStage": "technical",
+    "owner": "West Sales Team",
+    "remarks": [
+      "Customer searching for site in Ahmedabad."
+    ],
+    "activities": [
+      {
+        "date": "2026-01-17",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-01-24",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-01-31",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2026-02-04",
+        "title": "Latest field update",
+        "note": "Customer searching for site in Ahmedabad."
+      }
+    ],
+    "createdAt": "2025-12-29",
+    "lastUpdated": "2026-02-04",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": []
+  },
+  {
+    "id": "3I-FY26-0097",
+    "customer": "Dr Abhinav Gupta",
+    "location": "Gwalior",
+    "region": "West",
+    "regionKey": "west",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 300,
+    "siteStatus": "To Be Identified",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "",
+    "expectedClosureLabel": "Not scheduled",
+    "salesStatus": "New Enquiry",
+    "stage": "I",
+    "probability": 15,
+    "processStage": "new-enquiry",
+    "owner": "West Sales Team",
+    "remarks": [
+      "Customer wants 1.5T in budget below ₹2.5 Cr."
+    ],
+    "activities": [
+      {
+        "date": "2026-01-30",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-02-03",
+        "title": "Latest field update",
+        "note": "Customer wants 1.5T in budget below ₹2.5 Cr."
+      }
+    ],
+    "createdAt": "2025-12-27",
+    "lastUpdated": "2026-02-03",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Quoted value ₹3 Cr vs budget below ₹2.5 Cr"
+    ]
+  },
+  {
+    "id": "3I-FY26-0098",
+    "customer": "Dr Ankit Agarwal",
+    "location": "Gwalior",
+    "region": "West",
+    "regionKey": "west",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 300,
+    "siteStatus": "To Be Identified",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "",
+    "expectedClosureLabel": "Not scheduled",
+    "salesStatus": "New Enquiry",
+    "stage": "I",
+    "probability": 15,
+    "processStage": "new-enquiry",
+    "owner": "West Sales Team",
+    "remarks": [
+      "Customer wants 1.5T."
+    ],
+    "activities": [
+      {
+        "date": "2026-01-30",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-02-03",
+        "title": "Latest field update",
+        "note": "Customer wants 1.5T."
+      }
+    ],
+    "createdAt": "2025-12-26",
+    "lastUpdated": "2026-02-03",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": []
+  },
+  {
+    "id": "3I-FY26-0099",
+    "customer": "Jain Medical Trust",
+    "location": "Rajgurunagar",
+    "region": "West",
+    "regionKey": "west",
+    "customerType": "Hospital",
+    "modality": "MRI",
+    "product": "1.5T MRI",
+    "value": 280,
+    "siteStatus": "Under Preparation",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "2026-09-30",
+    "expectedClosureLabel": "CSR dependent",
+    "salesStatus": "Commercial Negotiation",
+    "stage": "II",
+    "probability": 70,
+    "processStage": "negotiation",
+    "owner": "West Sales Team",
+    "remarks": [
+      "Customer looking for CSR donor. Site is ready."
+    ],
+    "activities": [
+      {
+        "date": "2026-01-11",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-01-18",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-01-25",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2026-02-01",
+        "title": "Proposal / Quotation",
+        "note": "Quotation submitted to customer."
+      },
+      {
+        "date": "2026-02-08",
+        "title": "Commercial Negotiation",
+        "note": "Commercial negotiation in progress."
+      },
+      {
+        "date": "2026-02-12",
+        "title": "Latest field update",
+        "note": "Customer looking for CSR donor. Site is ready."
+      }
+    ],
+    "createdAt": "2026-01-03",
+    "lastUpdated": "2026-02-12",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Site Status Under Preparation vs remark Site is ready"
+    ]
+  },
+  {
+    "id": "3I-FY26-0100",
+    "customer": "Dr Nirmal Phulwani",
+    "location": "Indore",
+    "region": "West",
+    "regionKey": "west",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "ANAMAYA",
+    "value": 550,
+    "siteStatus": "",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "2025-12-15",
+    "expectedClosureLabel": "Lost",
+    "salesStatus": "Lost",
+    "stage": "II",
+    "probability": 0,
+    "processStage": "lost",
+    "owner": "West Sales Team",
+    "remarks": [
+      "Customer finalised with Sunrays for Avanto 1.5T."
+    ],
+    "activities": [
+      {
+        "date": "2025-12-15",
+        "title": "Latest field update",
+        "note": "Customer finalised with Sunrays for Avanto 1.5T."
+      },
+      {
+        "date": "2025-12-15",
+        "title": "Marked lost",
+        "note": "Opportunity closed as lost."
+      }
+    ],
+    "createdAt": "2025-11-04",
+    "lastUpdated": "2025-12-15",
+    "outcome": "lost",
+    "lostReason": "Competitor",
+    "competitor": "Sunrays",
+    "dateLost": "2025-12-15",
+    "dataIssues": [
+      "Lost stored in Billing column",
+      "Remark stored in Stage column"
+    ]
+  },
+  {
+    "id": "3I-FY26-0101",
+    "customer": "Dr Atul Marwah",
+    "location": "Mumbai",
+    "region": "West",
+    "regionKey": "west",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "ACHIEVA 3T",
+    "value": 280,
+    "siteStatus": "",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "2025-12-18",
+    "expectedClosureLabel": "Lost",
+    "salesStatus": "Lost",
+    "stage": "II",
+    "probability": 0,
+    "processStage": "lost",
+    "owner": "West Sales Team",
+    "remarks": [
+      "Customer finalised with Phantom for HDXT 1.5T & 3T. Price expectation was very low."
+    ],
+    "activities": [
+      {
+        "date": "2025-12-18",
+        "title": "Latest field update",
+        "note": "Customer finalised with Phantom for HDXT 1.5T & 3T. Price expectation was very low."
+      },
+      {
+        "date": "2025-12-18",
+        "title": "Marked lost",
+        "note": "Opportunity closed as lost."
+      }
+    ],
+    "createdAt": "2025-11-06",
+    "lastUpdated": "2025-12-18",
+    "outcome": "lost",
+    "lostReason": "Price",
+    "competitor": "Phantom",
+    "dateLost": "2025-12-18",
+    "dataIssues": [
+      "Lost stored in Billing column"
+    ]
+  },
+  {
+    "id": "3I-FY26-0102",
+    "customer": "Globus Diagnostic Center",
+    "location": "Nagar",
+    "region": "West",
+    "regionKey": "west",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "ANAMAYA",
+    "value": 500,
+    "siteStatus": "Ready",
+    "fundingStatus": "Not Yet Approached Bank",
+    "expectedClosure": "2025-11-30",
+    "expectedClosureLabel": "30 Nov 2025",
+    "salesStatus": "Commercial Negotiation",
+    "stage": "II",
+    "probability": 70,
+    "processStage": "negotiation",
+    "owner": "West Sales Team",
+    "remarks": [
+      "Also looking at refurbished Essenza. Budget limitation."
+    ],
+    "activities": [
+      {
+        "date": "2025-12-31",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2026-01-07",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2026-01-14",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2026-01-21",
+        "title": "Proposal / Quotation",
+        "note": "Quotation submitted to customer."
+      },
+      {
+        "date": "2026-01-28",
+        "title": "Commercial Negotiation",
+        "note": "Commercial negotiation in progress."
+      },
+      {
+        "date": "2026-02-01",
+        "title": "Latest field update",
+        "note": "Also looking at refurbished Essenza. Budget limitation."
+      }
+    ],
+    "createdAt": "2025-12-20",
+    "lastUpdated": "2026-02-01",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Closure date in the past"
+    ]
+  },
+  {
+    "id": "3I-FY26-0103",
+    "customer": "Dr Snehal Badjate",
+    "location": "Pune",
+    "region": "West",
+    "regionKey": "west",
+    "customerType": "Diagnostic Centre",
+    "modality": "MRI",
+    "product": "ANAMAYA",
+    "value": 500,
+    "siteStatus": "Under Preparation",
+    "fundingStatus": "Approached Bank",
+    "expectedClosure": "2025-09-30",
+    "expectedClosureLabel": "30 Sep 2025",
+    "salesStatus": "PO ADV Collected",
+    "stage": "III",
+    "probability": 95,
+    "processStage": "order",
+    "owner": "West Sales Team",
+    "remarks": [
+      "PO and advance received."
+    ],
+    "activities": [
+      {
+        "date": "2025-08-15",
+        "title": "New Enquiry",
+        "note": "New enquiry captured from field visit / IRIA."
+      },
+      {
+        "date": "2025-08-22",
+        "title": "Need Analysis",
+        "note": "Need analysis completed. Configuration discussion initiated."
+      },
+      {
+        "date": "2025-08-29",
+        "title": "Technical Discussion",
+        "note": "Technical discussion held on site requirements and product specifications."
+      },
+      {
+        "date": "2025-09-05",
+        "title": "Proposal / Quotation",
+        "note": "Quotation submitted to customer."
+      },
+      {
+        "date": "2025-09-12",
+        "title": "Commercial Negotiation",
+        "note": "Commercial negotiation in progress."
+      },
+      {
+        "date": "2025-09-19",
+        "title": "Finalisation",
+        "note": "Deal moved to finalisation. Awaiting internal / customer confirmation."
+      },
+      {
+        "date": "2025-09-26",
+        "title": "Order & Advance",
+        "note": "Order and advance collection in progress."
+      },
+      {
+        "date": "2025-09-30",
+        "title": "Latest field update",
+        "note": "PO and advance received."
+      }
+    ],
+    "createdAt": "2025-08-17",
+    "lastUpdated": "2025-09-30",
+    "outcome": "open",
+    "lostReason": "",
+    "competitor": "",
+    "dateLost": "",
+    "dataIssues": [
+      "Stage III despite PO/advance — stage/status mismatch"
+    ]
+  }
+]

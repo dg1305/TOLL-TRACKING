@@ -1,0 +1,16 @@
+@layer theme, base, components, utilities;
+@import "tailwindcss/theme.css" layer(theme);
+@import "tailwindcss/utilities.css" layer(utilities);
+
+@theme {
+  --font-sans: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+  --color-brand: #2079b7;
+  --color-brand-dark: #0d4574;
+  --color-ink: #1f2937;
+  --color-success: #8cbc43;
+  --color-accent: #ef6a31;
+  --color-sidebar: #10263a;
+}
+
+html, body, #root { height: 100%; }
+button { cursor: pointer; }

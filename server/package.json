@@ -1,0 +1,42 @@
+{
+  "name": "3i-sales-server",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "migrate": "tsx src/db/migrate.ts",
+    "seed": "tsx src/db/seed.ts",
+    "dev": "tsx watch src/index.ts",
+    "start": "node --import tsx src/index.ts",
+    "build": "tsc --noEmit",
+    "build:client": "npm --prefix ../client ci && npm --prefix ../client run build"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "compression": "^1.8.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "helmet": "^8.3.0",
+    "jsonwebtoken": "^9.0.2",
+    "morgan": "^1.10.0",
+    "multer": "^2.4.0",
+    "mysql2": "^3.23.2",
+    "nodemailer": "^9.0.5",
+    "xlsx": "^0.18.5",
+    "zod": "^3.25.28"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.6",
+    "@types/compression": "^1.8.1",
+    "@types/cors": "^2.8.18",
+    "@types/express": "^5.0.2",
+    "@types/jsonwebtoken": "^9.0.9",
+    "@types/morgan": "^1.9.9",
+    "@types/multer": "^2.3.0",
+    "@types/node": "^22.15.21",
+    "@types/nodemailer": "^8.0.1",
+    "tsx": "^4.19.4",
+    "typescript": "~5.8.0"
+  }
+}

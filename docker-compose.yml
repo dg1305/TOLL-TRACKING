@@ -1,0 +1,15 @@
+services:
+  3i-sales-funnel:
+    image: node:18
+    container_name: 3i-sales-funnel
+    working_dir: /app/server
+    volumes:
+      - ./server:/app/server
+      - ./client:/app/client
+    command: npm start
+    env_file:
+      - ./server/.env
+    expose:
+      - "4090"
+    ports:
+      - "4090:4090"

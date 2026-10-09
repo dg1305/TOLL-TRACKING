@@ -1,0 +1,36 @@
+node_modules/
+dist/
+dist-ssr/
+build/
+client/out/
+.turbo/
+
+# Secrets
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+# Logs & OS
+logs/
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+
+# Runtime
+server/storage/
+*.sqlite
+server/data/users.json
+server/data/activity.json
+server/data/fastag.json
+
+# Excel source trackers
+*.xlsx
+Sales-Tracker-PremT.xlsx
+Sales Tracker - West 13.02.2026.xlsx
+
+# Local archives (may contain node_modules and .env)
+*.zip
